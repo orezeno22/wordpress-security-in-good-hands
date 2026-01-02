@@ -54,8 +54,10 @@ I greatly appreciate any feedback that can help improve this handbook and make i
   14. Remove Unused Plugins and Themes
   15. Wisely Manage User Accounts
   16. Don’t Forget “Must-Use Plugins”
-  17. Other Security Measures in Nginx
-  18. Useful Cloudflare Rules
+  17. Disabling Concatenated Script Loading
+  18. Blocking OPML links
+  19. Other Security Measures in Nginx
+  20. Useful Cloudflare Rules
 
 ### CHAPTER 5: WHAT TO DO NEXT
 
